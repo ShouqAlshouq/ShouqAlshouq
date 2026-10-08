@@ -213,7 +213,7 @@ If you're interested in technology, development, or building something together 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@ShouqAlshouq-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
 
-<br><br>
+<br>
 
 `✦ always learning · always building · one project at a time ✦`
 

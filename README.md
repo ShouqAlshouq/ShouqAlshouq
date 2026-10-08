@@ -127,22 +127,6 @@ Also working on getting more of my university projects cleaned up and onto GitHu
 </tr>
 </table>
 
-<br>
-
----
-
-## 🌱 things i'm learning
-
-<table align="center">
-<tr>
-<td align="center">🐙<br><b>Git & GitHub</b><br><sub>branches · PRs · collaboration</sub></td>
-<td align="center">📱<br><b>SwiftUI</b><br><sub>iOS development</sub></td>
-<td align="center">🎮<br><b>Unity</b><br><sub>C# · game dev</sub></td>
-<td align="center">☁️<br><b>Azure</b><br><sub>cloud fundamentals</sub></td>
-<td align="center">✨<br><b>AI</b><br><sub>always curious</sub></td>
-</tr>
-</table>
-
 ---
 
 ## 🐍 a little GitHub creature
@@ -187,7 +171,6 @@ feel free to say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shouq%20Alshouq-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
 
-<br><br>
 
 `✦ keep learning · keep building · keep being curious ✦`
 

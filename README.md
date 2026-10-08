@@ -4,14 +4,10 @@
 
 ### `building things · learning things · enjoying little things`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Application+Development+student;web+%26+mobile+app+enthusiast;currently+learning+Git+%26+GitHub;always+curious+about+what's+next+%E2%9C%A8" alt="Typing SVG"/>
-
-
-<br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-come%20say%20hi-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
 [![GitHub](https://img.shields.io/badge/GitHub-ShouqAlshouq-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ShouqAlshouq)
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Application+Development+student;web+%26+mobile+app+enthusiast;currently+learning+Git+%26+GitHub;always+curious+about+what's+next+%E2%9C%A8" alt="Typing SVG"/>
 </div>
 
 ## ୨୧ hi, i'm shouq!

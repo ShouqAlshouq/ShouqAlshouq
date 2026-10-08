@@ -4,9 +4,9 @@
 
 ### Application Development student · always learning something new
 
-📍 Abu Dhabi, UAE &nbsp;·&nbsp; 🎓 Higher Colleges of Technology &nbsp;·&nbsp; 🗓️ Graduating Dec 2026
+⚲ Abu Dhabi, UAE &nbsp;·&nbsp; ✎ Higher Colleges of Technology &nbsp;·&nbsp; 🗓 Graduating Dec 2026
 
-💼 **Open to graduate & junior application developer roles**
+🖳 **Open to graduate & junior application developer roles**
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## ✨ A little about me
+## ✧˖°. A little about me
 
 - Final-year **Bachelor of Information Systems – Application Development** student at HCT
 - **Interned at Digital Next UAE** (Jun–Aug 2026), where I built two multi-role workflow systems with **Apptomator**, a low-code platform
@@ -27,7 +27,7 @@
 
 <br>
 
-## 🧰 Toolbox
+## 𖠩 Toolbox
 
 <div align="center">
 
@@ -68,19 +68,19 @@
 
 <br>
 
-## 🛠️ Things I've built
+## 🛠 Things I've built
 
 | | Project | What it is | Built with |
 |:-:|---|---|---|
-| ✈️ | **[Airline Booking System](https://github.com/ShouqAlshouq/AirlineBookingsProject)** | A data-driven ASP.NET MVC web app: search and book flights with passenger and payment details, manage bookings and profiles, plus an admin dashboard for flights and users | C# · ASP.NET MVC · EF Core · SQL Server LocalDB · Identity |
-| 📱 | **SkyBooking** | An iOS airline booking app with sign-in, a live flights list, bookings, and a profile with camera and photo-library access | Swift · SwiftUI · Firebase Auth · Firestore · REST API |
-| 🛍️ | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| ⌯✈︎ | **[Airline Booking System](https://github.com/ShouqAlshouq/AirlineBookingsProject)** | A data-driven ASP.NET MVC web app: search and book flights with passenger and payment details, manage bookings and profiles, plus an admin dashboard for flights and users | C# · ASP.NET MVC · EF Core · SQL Server LocalDB · Identity |
+| 🌐︎ | **SkyBooking** | An iOS airline booking app with sign-in, a live flights list, bookings, and a profile with camera and photo-library access | Swift · SwiftUI · Firebase Auth · Firestore · REST API |
+| 🏷 | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 
 <sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 
 <br>
 
-## 🏅 Certified & trained
+## 🕮 Certified & trained
 
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **Nomu Al Ghurair Digital Careers Launchpad** — Data Analysis track (Aug 2026)
@@ -90,7 +90,7 @@
 
 <br>
 
-## 🗺️ My journey so far
+## ╰┈➤ My journey so far
 
 <details>
 <summary><b>Click to expand</b></summary>

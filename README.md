@@ -1,144 +1,91 @@
-# Hellow, I'm Shouq!
+<!--
+  HOW TO USE
+  1. Create a PUBLIC repo named exactly your GitHub username, tick "Add a README".
+  2. Replace this file's contents with this one.
+  3. Search for YOUR- and swap in your real username, LinkedIn and email.
+  Delete this comment when you're done — visitors can't see it, but it's tidier.
+-->
 
-🎓 **Final-Year Application Development Student @ Higher Colleges of Technology**
-💻 Building software, learning new technologies, and occasionally wondering why my code worked five minutes ago.
+<div align="center">
 
-I’m an Application Development student interested in **software development, mobile applications, AI, and emerging technologies**. I enjoy taking an idea and turning it into something people can actually interact with — whether that's a mobile app, a web application, or a small experiment to learn something new.
+# Hi, I'm Shouq 👋
 
-I'm currently working on becoming a stronger developer by **building projects, collaborating with others, and learning through hands-on experience**.
+### Application Development student · low-code builder · always learning something new
 
----
+📍 Abu Dhabi, UAE &nbsp;·&nbsp; 🎓 Higher Colleges of Technology &nbsp;·&nbsp; 🗓️ Graduating May 2027
 
-## 🧑‍💻 About Me
+<br>
 
-* 🎓 Final-year **Application Development** student
-* 📱 Interested in **iOS & Mobile App Development**
-* 🌐 Experience with **full-stack web development**
-* ☁️ Currently exploring **cloud & AI technologies**
-* 🤖 Interested in **AI, emerging technologies, and digital transformation**
-* 🎮 Exploring **game development** alongside my main development path
-* 📊 Completed training in **Data Analysis**
-* 🔧 Learning to use **Git & GitHub for collaboration and project development**
-* 🇦🇪 Based in the **UAE**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-6E40C9?style=for-the-badge)](mailto:shouq.alshouq2022@gmail.com)
 
-> **My goal:** Keep learning, keep building, and become a developer who can turn ideas into useful solutions.
+</div>
 
----
+<br>
 
-## 🛠️ Technologies & Tools
+## ✨ A little about me
 
-### 💻 Programming Languages
+- 🎓 Final-year **Bachelor of Information Systems – Application Development** student at HCT
+- 💼 **Interned at Digital Next UAE** (Jun–Aug 2026), where I built two low-code workflow systems with **Apptomator**
+- 🤝 **Application Development Board Member** at the CIS Club
+- 🎌 **Treasurer** at the Japanese Club
+- 🌱 Currently getting comfortable with **Git & GitHub workflows** — branches, pull requests, the lot
+- 💬 Ask me about: low-code workflows, building my first full web shop, and getting started with GitHub
 
-`C#` `Java` `Python` `JavaScript` `Swift` `HTML` `CSS` `SQL`
+<br>
 
-### 📱 Development
+## 🛠️ Toolbox
 
-`SwiftUI` `ASP.NET MVC` `Entity Framework Core` `Firebase` `REST APIs`
+<div align="center">
 
-### 🗄️ Databases
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Apptomator](https://img.shields.io/badge/Apptomator-6E40C9?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-`MySQL` `Oracle Database` `SQL Server` `Firestore`
+</div>
 
-### 🔧 Tools & Technologies
+<br>
 
-`Git` `GitHub` `Visual Studio` `VS Code` `Xcode` `NetBeans` `StarUML`
+## 🚀 Things I've built
 
-### 📐 Other Areas
+| | Project | What it is | Built with |
+|:-:|---|---|---|
+| 🌸 | **[Aurora's Scents](https://github.com/YOUR-USERNAME/aurora-scents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| 📝 | **Leave Request Automation** | A low-code workflow that automates leave requests — built during my internship at Digital Next UAE | Apptomator |
+| ⚖️ | **Legal Service Request Workflow** | A low-code workflow for handling legal service requests — also built during my internship | Apptomator |
 
-`OOP` `BPMN` `Business Process Management` `Low-Code / No-Code Development`
-`AI Tools` `Prompt Engineering` `Data Analysis` `Digital Transformation`
+<sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 
----
+<br>
 
-## 🚀 Projects
+## 🗺️ My journey so far
 
-### ✈️ Airline Booking System
+<details>
+<summary><b>Click to expand</b></summary>
+<br>
 
-A web-based airline booking application developed using **ASP.NET MVC, C#, Entity Framework Core, and SQL Server**.
+| When | What |
+|---|---|
+| **Aug 2022 →** | Started my Bachelor of Information Systems – Application Development at Higher Colleges of Technology (expected May 2027) |
+| **Jun – Aug 2026** | Application Development Intern at **Digital Next UAE** — built *Leave Request Automation* and *Legal Service Request Workflow* with Apptomator |
+| **Now** | CIS Club Application Development Board Member · Japanese Club Treasurer · learning GitHub workflows |
 
-Features include flight searching, passenger management, booking, and payment workflows.
+</details>
 
-### 📱 iOS / Swift Projects
-
-I've been exploring **Swift and SwiftUI** through university and personal projects, building mobile applications while learning more about Apple's development ecosystem.
-
-### 🌱 ReCircle
-
-A recycling-focused mobile application concept exploring location-based services and data management using technologies such as **MapKit and SwiftData**.
-
-### 🌐 Web Development Projects
-
-Various university projects involving **C#, ASP.NET MVC, JavaScript, HTML/CSS, databases, and business process modeling**.
-
-### 🎮 Game Development
-
-Currently expanding my development skills into **game development with Unity**, learning game programming, mechanics, and interactive experiences.
-
----
-
-## 🌱 Currently Learning
-
-```text
-📱 Swift & iOS Development
-☁️ Cloud Technologies
-🤖 AI & Emerging Technologies
-🎮 Game Development
-🔀 Git & GitHub Collaboration
-💻 Better Software Development Practices
-```
-
-I'm especially interested in learning by **building rather than just watching tutorials**.
+<br>
 
 ---
 
-## 🏆 Certifications & Learning
+<div align="center">
 
-* ☁️ **Microsoft Azure Fundamentals (AZ-900)**
-* 📊 **Nomu Al Ghurair Digital Careers Launchpad – Data Analysis Track**
-* 🤖 **One Million Prompters**
-* 🎮 **Game Development Training & Bootcamp Programs**
-* 📚 Various **HP LIFE** courses covering Agile Project Management, Digital Business Skills, Design Thinking, Strategic Planning in the AI Age, and more.
+### Thanks for stopping by 💜
 
----
+*If you'd like to build something together or just chat about tech, my inbox is open.*
 
-## 💡 A Little More About Me
-
-I didn't start out knowing exactly what area of technology I wanted to specialize in.
-
-That's actually something I like about development.
-
-I've had the opportunity to explore **web development, mobile development, databases, business processes, data analysis, AI, cloud technologies, low-code development, and game development** — and each one has taught me something different.
-
-Right now, I'm focused on turning that broad experience into **stronger fundamentals, better projects, and real-world development skills.**
-
----
-
-## 📈 My Developer Journey
-
-```text
-Application Development Student
-          │
-          ├── 🌐 Web Development
-          ├── 📱 Mobile Development
-          ├── 🗄️ Databases
-          ├── ☁️ Cloud & Azure
-          ├── 🤖 AI & Emerging Tech
-          ├── 📊 Data Analysis
-          ├── 🎮 Game Development
-          └── 🔀 Git & Collaboration
-                    │
-                    ▼
-            Keep Learning & Building 🚀
-```
-
----
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with other students, developers, and people interested in technology, collaboration, and learning.
-
-📫 **Feel free to explore my repositories and see what I'm building!**
-
----
-
-### ✨ *Still learning. Still building. Still curious.*
+</div>

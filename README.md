@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Shouq 👋
+# Hi there! I'm Shouq (≧∀≦)/
 
 ### Application Development student · always learning something new
 
@@ -9,7 +9,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-6E40C9?style=for-the-badge)](mailto:shouq.alshouq2022@gmail.com)
 
 </div>
 
@@ -17,16 +16,16 @@
 
 ## ✨ A little about me
 
-- 🎓 Final-year **Bachelor of Information Systems – Application Development** student at HCT
-- 💼 **Interned at Digital Next UAE** (Jun–Aug 2026), where I built two low-code workflow systems with **Apptomator**
-- 🤝 **Application Development Board Member** at the CIS Club
-- 🎌 **Treasurer** at the Japanese Club
-- 🌱 Currently getting comfortable with **Git & GitHub workflows** — branches, pull requests, the lot
-- 💬 Ask me about: low-code workflows, building my first full web shop, and getting started with GitHub
+- Final-year **Bachelor of Information Systems – Application Development** student at HCT
+- **Interned at Digital Next UAE** (Jun–Aug 2026), where I built two low-code workflow systems with **Apptomator**
+- **Application Development Board Member** at the CIS Club
+- **Treasurer** at the Japanese Club
+- Currently getting comfortable with **Git & GitHub workflows** — branches, pull requests, the lot
+- Ask me about: low-code workflows, building my first full web shop, and getting started with GitHub
 
 <br>
 
-## 🛠️ Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -44,17 +43,17 @@
 
 <br>
 
-## 🚀 Things I've built
+## Things I've built
 
 | | Project | What it is | Built with |
 |:-:|---|---|---|
-| 🌸 | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| ☆ | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 
 <sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 
 <br>
 
-## 🗺️ My journey so far
+## My journey so far
 
 <details>
 <summary><b>Click to expand</b></summary>
@@ -62,7 +61,7 @@
 
 | When | What |
 |---|---|
-| **Aug 2022 →** | Started my Bachelor of Information Systems – Application Development at Higher Colleges of Technology (expected May 2027) |
+| **Aug 2022 →** | Started my Bachelor of Information Systems – Application Development at Higher Colleges of Technology (expected Dec 2026) |
 | **Jun – Aug 2026** | Application Development Intern at **Digital Next UAE** — built systems with Apptomator |
 | **Now** | CIS Club Application Development Board Member · Japanese Club Treasurer · learning GitHub workflows |
 

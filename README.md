@@ -2,12 +2,10 @@
 
 # 𝑺𝒉𝒐𝒖𝒒 𝑨𝒍𝒔𝒉𝒐𝒖𝒒 ♡
 
-### `building things · learning things · occasionally breaking things`
-
+### `building things · learning things · enjoying little things`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Application+Development+student;web+%26+mobile+app+enthusiast;currently+learning+Git+%26+GitHub;always+curious+about+what's+next+%E2%9C%A8" alt="Typing SVG"/>
 
- 
 
 <br>
 
@@ -16,15 +14,11 @@
 
 </div>
 
----
-
 ## ୨୧ hi, i'm shouq!
 
 I like making things and figuring out how they work.
 
 I'm currently finishing my **Application Development degree at HCT**, and most of what you'll find here comes from things I've built while learning — web apps, mobile apps, experiments, university projects, and whatever I'm curious about next.
-
-Lately I've been playing around with **Git & GitHub**, **SwiftUI**, **ASP.NET**, **Azure**, and **C# + Unity**.
 
 I don't really have a single “thing” yet.
 I'm still exploring. And honestly, that's the fun part. ✦
@@ -33,12 +27,9 @@ I'm still exploring. And honestly, that's the fun part. ✦
 currently:
 → moving my projects onto GitHub
 → getting better at Git & GitHub
-→ building with SwiftUI + Firebase
 → exploring C# & Unity
 → collecting way too many things I want to learn
 ```
-
----
 
 ## ୨୧ my toolbox
 
@@ -70,8 +61,6 @@ currently:
 
 </div>
 </div>
-
----
 
 ## ✦ things i've made
 
@@ -127,9 +116,7 @@ Also working on getting more of my university projects cleaned up and onto GitHu
 </tr>
 </table>
 
----
-
-## 🐍 a little GitHub creature
+## 🐍 a little GitHub Activity creature
 
 <div align="center">
 
@@ -141,7 +128,14 @@ Also working on getting more of my university projects cleaned up and onto GitHu
 
 </div>
 
----
+
+## ୨୧ github stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.zcy.dev/api?username=ShouqAlshouq&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouqAlshouq&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.zcy.dev/api/top-langs?username=ShouqAlshouq&theme=tokyonight&layout=compact"/>
+</p>
 
 ## ✦ a few things about me
 

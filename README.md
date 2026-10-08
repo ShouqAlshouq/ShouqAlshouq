@@ -4,7 +4,7 @@
 
 ### Application Development student · always learning something new
 
-📍 Abu Dhabi, UAE &nbsp;·&nbsp; 🎓 Higher Colleges of Technology &nbsp;·&nbsp; 🗓️ Graduating May 2027
+📍 Abu Dhabi, UAE &nbsp;·&nbsp; 🎓 Higher Colleges of Technology &nbsp;·&nbsp; 🗓️ Graduating Dec 2026
 
 <br>
 

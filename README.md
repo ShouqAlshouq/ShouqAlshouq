@@ -48,7 +48,7 @@
 
 | | Project | What it is | Built with |
 |:-:|---|---|---|
-|  | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| ☆ | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 
 <sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 

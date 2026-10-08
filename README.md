@@ -44,7 +44,7 @@ I'm currently looking for **graduate and junior software/application developer o
 
 <div align="center">
 
-### Languages
+### Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge\&logo=openjdk\&logoColor=white)
@@ -54,9 +54,6 @@ I'm currently looking for **graduate and junior software/application developer o
 ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Frameworks & Platforms
-
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8B5CF6?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-8B5CF6?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-8B5CF6?style=for-the-badge\&logo=swift\&logoColor=white)
@@ -65,17 +62,11 @@ I'm currently looking for **graduate and junior software/application developer o
 ![jQuery](https://img.shields.io/badge/jQuery-8B5CF6?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![Apptomator](https://img.shields.io/badge/Apptomator-8B5CF6?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-8B5CF6?style=for-the-badge\&logo=unity\&logoColor=white)
-
-### Databases & Cloud
-
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-8B5CF6?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-8B5CF6?style=for-the-badge\&logo=oracle\&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-8B5CF6?style=for-the-badge\&logo=firebase\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-8B5CF6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-### Tools
-
 ![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8B5CF6?style=for-the-badge\&logo=visualstudio\&logoColor=white)

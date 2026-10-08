@@ -1,217 +1,194 @@
 <div align="center">
 
-# 𝑺𝒉𝒐𝒖𝒒 𝑨𝒍𝒔𝒉𝒐𝒖𝒒
+# 𝑺𝒉𝒐𝒖𝒒 𝑨𝒍𝒔𝒉𝒐𝒖𝒒 ♡
 
-### `Aspiring Software Engineer` · `Application Development` · `Web & Mobile`
+### `building things · learning things · occasionally breaking things`
 
-**Final-year Application Development student @ Higher Colleges of Technology**
 
-📍 Abu Dhabi, UAE  ·  🎓 Graduating December 2026
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Application+Development+student;web+%26+mobile+app+enthusiast;currently+learning+Git+%26+GitHub;always+curious+about+what's+next+%E2%9C%A8" alt="Typing SVG"/>
+
+ 
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-come%20say%20hi-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
 [![GitHub](https://img.shields.io/badge/GitHub-ShouqAlshouq-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ShouqAlshouq)
-
-<br>
-
-> ✦ Building things, learning things, and figuring out what's next.
 
 </div>
 
 ---
 
-## ୨୧ About Me
+## ୨୧ hi, i'm shouq!
 
-Hi! I'm **Shouq**, a final-year **Bachelor of Information Systems – Application Development** student at Higher Colleges of Technology.
+I like making things and figuring out how they work.
 
-I'm interested in creating practical applications across **web, mobile, and emerging technologies**. Most of my learning happens by actually building things — from ASP.NET web applications and SwiftUI mobile apps to low-code business workflows and game development.
+I'm currently finishing my **Application Development degree at HCT**, and most of what you'll find here comes from things I've built while learning — web apps, mobile apps, experiments, university projects, and whatever I'm curious about next.
+
+Lately I've been playing around with **Git & GitHub**, **SwiftUI**, **ASP.NET**, **Azure**, and **C# + Unity**.
+
+I don't really have a single “thing” yet.
+I'm still exploring. And honestly, that's the fun part. ✦
 
 ```text
-🎓 Final-year Application Development student
-💻 Web & mobile application development
-☁️ Microsoft Azure Fundamentals (AZ-900)
-🏢 Application Development Intern @ Digital Next UAE
-🎮 Exploring C# & Unity
-🌱 Learning Git & GitHub collaboration workflows
+currently:
+→ moving my projects onto GitHub
+→ getting better at Git & GitHub
+→ building with SwiftUI + Firebase
+→ exploring C# & Unity
+→ collecting way too many things I want to learn
 ```
-
-I'm currently looking for **graduate and junior software/application developer opportunities** where I can keep learning, contribute to real projects, and grow into a strong software engineer.
 
 ---
 
-## ✦ What I'm Working With
+## ୨୧ my toolbox
 
 <div align="center">
 
-### Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" title="Swift"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title="ASP.NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" title="jQuery"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" title="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 
-![C#](https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8B5CF6?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge\&logo=javascript\&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-8B5CF6?style=for-the-badge\&logo=swift\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge\&logo=css3\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-8B5CF6?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-8B5CF6?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-8B5CF6?style=for-the-badge\&logo=swift\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-8B5CF6?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8B5CF6?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-8B5CF6?style=for-the-badge\&logo=jquery\&logoColor=white)
-![Apptomator](https://img.shields.io/badge/Apptomator-8B5CF6?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-8B5CF6?style=for-the-badge\&logo=unity\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-8B5CF6?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-8B5CF6?style=for-the-badge\&logo=oracle\&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-8B5CF6?style=for-the-badge\&logo=firebase\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-8B5CF6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8B5CF6?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+<div align="center">
+
+`C#` · `Java` · `Python` · `JavaScript` · `Swift` · `SQL`
+`ASP.NET Core` · `EF Core` · `SwiftUI` · `Firebase` · `Bootstrap` · `jQuery`
+`SQL Server` · `MySQL` · `Oracle` · `Firestore` · `Azure` · `Apptomator`
+
+</div>
+</div>
+
+---
+
+## ✦ things i've made
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✈️ Airline Booking System
+
+`C#` · `ASP.NET Core MVC` · `EF Core`
+
+A full airline booking web app with flight searching, bookings, passenger & payment details, profiles, and an admin side.
+
+**[explore →](https://github.com/ShouqAlshouq/AirlineBookingsProject)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 SkyBooking
+
+`Swift` · `SwiftUI` · `Firebase`
+
+An iOS airline booking app with authentication, flights, bookings, and a profile with camera & photo-library features.
+
+*coming to GitHub soon ♡*
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌸 Aurora's Scents
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+
+A little perfume-shop front end with product pages, reviews, a cart, and checkout.
+
+**[explore →](https://github.com/ShouqAlshouq/Aurora-sScentsProject)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 currently...
+
+Learning **C# + Unity** and slowly venturing into game development.
+
+Also working on getting more of my university projects cleaned up and onto GitHub.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🌱 things i'm learning
+
+<table align="center">
+<tr>
+<td align="center">🐙<br><b>Git & GitHub</b><br><sub>branches · PRs · collaboration</sub></td>
+<td align="center">📱<br><b>SwiftUI</b><br><sub>iOS development</sub></td>
+<td align="center">🎮<br><b>Unity</b><br><sub>C# · game dev</sub></td>
+<td align="center">☁️<br><b>Azure</b><br><sub>cloud fundamentals</sub></td>
+<td align="center">✨<br><b>AI</b><br><sub>always curious</sub></td>
+</tr>
+</table>
+
+---
+
+## 🐍 a little GitHub creature
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShouqAlshouq/ShouqAlshouq/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShouqAlshouq/ShouqAlshouq/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ShouqAlshouq/ShouqAlshouq/output/github-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-## ♡ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### ✈️ Airline Booking System
-
-**C# · ASP.NET Core MVC · EF Core · SQL Server**
-
-A data-driven airline booking web application with flight search, passenger and payment details, user profiles, booking management, and an admin dashboard.
-
-**[→ View repository](https://github.com/ShouqAlshouq/AirlineBookingsProject)**
-
-</td>
-
-<td width="50%">
-
-### 📱 SkyBooking
-
-**Swift · SwiftUI · Firebase · REST API**
-
-An iOS airline booking application featuring authentication, a flight list, bookings, and a profile area with camera and photo-library functionality.
-
-*Repository coming soon*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌸 Aurora's Scents
-
-**HTML · CSS · JavaScript · Bootstrap · jQuery**
-
-A front-end perfume shop featuring fragrance collections, product pages, reviews, a shopping cart, and a validated checkout flow.
-
-**[→ View repository](https://github.com/ShouqAlshouq/Aurora-sScentsProject)**
-
-</td>
-
-<td width="50%">
-
-### 🔮 More to come...
-
-I'm gradually moving my university and personal projects onto GitHub.
-
-New repositories will appear here as they become polished and ready to share.
-
-</td>
-</tr>
-</table>
-
----
-
-## ☁️ Experience
-
-### Application Development Intern — Digital Next UAE
-
-**June – August 2026**
-
-Worked with **Apptomator**, a low-code/no-code application development platform, to develop workflow-based applications involving multiple user roles and business processes.
-
----
-
-## ✧ Currently Learning
-
-<div align="center">
-
-|         🌱 Area        | Focus                                              |
-| :--------------------: | :------------------------------------------------- |
-|    **Git & GitHub**    | Branches · commits · pull requests · collaboration |
-|     **C# & Unity**     | Game development and interactive applications      |
-|        **Azure**       | Cloud fundamentals and Microsoft technologies      |
-|       **SwiftUI**      | iOS application development                        |
-| **AI & Emerging Tech** | Exploring practical applications and new tools     |
-
-</div>
-
----
-
-## 🏅 Certifications & Programs
-
-* ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-* 📊 **Nomu Al Ghurair Digital Careers Launchpad** — Data Analysis Track
-* 🎮 **UNDP & Al Ghurair Game Development Bootcamp** — C# & Unity · *In progress*
-* 🤖 **One Million Prompters** — Prompt Engineering & Generative AI
-* 🪪 **Microsoft AI Skills Fest 2026** — Badge
-
----
-
-## ♧ Beyond Code
-
-Outside of development, I'm involved in student activities at HCT:
-
-**CIS Club** — Application Development Board Member
-**Japanese Club** — Treasurer
-
-I enjoy exploring different areas of technology rather than limiting myself to one stack — which is probably why my projects range from **web and mobile applications to low-code platforms, data analysis, AI, and game development**.
-
----
-
-## 🎯 What's Next?
+## ✦ a few things about me
 
 ```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│   🎓 Graduate in December 2026                  │
-│   💻 Keep building real applications            │
-│   🚀 Grow as a software engineer                │
-│   🤝 Find opportunities to learn & contribute   │
-│                                                 │
-└─────────────────────────────────────────────────┘
+🎓 final-year Application Development student
+☁️ AZ-900 certified
+🏢 former Application Development Intern @ Digital Next UAE
+🎮 currently exploring game development
+📊 data analysis track graduate
+🤖 interested in AI & emerging technology
+🌸 Japanese Club Treasurer
+💻 CIS Club Application Development Board Member
 ```
 
-I'm currently **open to graduate and junior software/application developer roles**.
-
-If you're interested in technology, development, or building something together —
-
-**let's connect! ♡**
-
-<br>
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ShouqAlshouq-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
+### thanks for dropping by ♡
+
+I’m currently looking for my first **graduate / junior developer opportunity**.
+
+If you're here because you found something interesting in one of my projects,
+feel free to say hi!
 
 <br>
 
-`✦ always learning · always building · one project at a time ✦`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shouq%20Alshouq-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
+
+<br><br>
+
+`✦ keep learning · keep building · keep being curious ✦`
 
 </div>

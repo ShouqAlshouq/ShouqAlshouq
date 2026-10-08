@@ -62,7 +62,7 @@
 
 | When | What |
 |---|---|
-| **Aug 2022 →** | Started my Bachelor of Information Systems – Application Development at Higher Colleges of Technology (expected May 2027) |
+| **Aug 2022 →** | Started my Bachelor of Information Systems – Application Development at Higher Colleges of Technology (expected Dec 2026) |
 | **Jun – Aug 2026** | Application Development Intern at **Digital Next UAE** — built systems with Apptomator |
 | **Now** | CIS Club Application Development Board Member · Japanese Club Treasurer · learning GitHub workflows |
 

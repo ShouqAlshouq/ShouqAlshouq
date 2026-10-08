@@ -132,9 +132,9 @@ Also working on getting more of my university projects cleaned up and onto GitHu
 ## ୨୧ github stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.zcy.dev/api?username=ShouqAlshouq&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouqAlshouq&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.zcy.dev/api/top-langs?username=ShouqAlshouq&theme=tokyonight&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.zcy.dev/api?username=ShouqAlshouq&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShouqAlshouq&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.zcy.dev/api/top-langs?username=ShouqAlshouq&theme=tokyonight&layout=compact"/>
 </p>
 
 ## ✦ a few things about me

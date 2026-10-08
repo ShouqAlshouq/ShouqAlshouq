@@ -49,8 +49,6 @@
 | | Project | What it is | Built with |
 |:-:|---|---|---|
 | 🌸 | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
-| 📝 | **Leave Request Automation** | A low-code workflow that automates leave requests — built during my internship at Digital Next UAE | Apptomator |
-| ⚖️ | **Legal Service Request Workflow** | A low-code workflow for handling legal service requests — also built during my internship | Apptomator |
 
 <sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 
@@ -65,7 +63,7 @@
 | When | What |
 |---|---|
 | **Aug 2022 →** | Started my Bachelor of Information Systems – Application Development at Higher Colleges of Technology (expected May 2027) |
-| **Jun – Aug 2026** | Application Development Intern at **Digital Next UAE** — built *Leave Request Automation* and *Legal Service Request Workflow* with Apptomator |
+| **Jun – Aug 2026** | Application Development Intern at **Digital Next UAE** — built systems with Apptomator |
 | **Now** | CIS Club Application Development Board Member · Japanese Club Treasurer · learning GitHub workflows |
 
 </details>

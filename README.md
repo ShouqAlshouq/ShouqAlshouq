@@ -1,4 +1,4 @@
-# Hi, I'm Shouq! 👋
+# Hellow, I'm Shouq!
 
 🎓 **Final-Year Application Development Student @ Higher Colleges of Technology**
 💻 Building software, learning new technologies, and occasionally wondering why my code worked five minutes ago.

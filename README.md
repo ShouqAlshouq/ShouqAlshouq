@@ -9,7 +9,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
-[![Email](https://img.shields.io/badge/Email-Say%20hi-6E40C9?style=for-the-badge)](mailto:shouq.alshouq2022@gmail.com)
 
 </div>
 

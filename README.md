@@ -4,19 +4,15 @@
 
 ### `building things · learning things · occasionally breaking things`
 
-<br>
 
-🎓 Application Development @ **Higher Colleges of Technology**
-📍 Abu Dhabi, UAE · 🗓️ Graduating December 2026
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Application+Development+student;web+%26+mobile+app+enthusiast;currently+learning+Git+%26+GitHub;always+curious+about+what's+next+%E2%9C%A8" alt="Typing SVG"/>
+
+ 
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-come%20say%20hi-8B5CF6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shouq-alshouq-ba3691264)
 [![GitHub](https://img.shields.io/badge/GitHub-ShouqAlshouq-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ShouqAlshouq)
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=Application+Development+student;web+%26+mobile+app+enthusiast;currently+learning+Git+%26+GitHub;always+curious+about+what's+next+%E2%9C%A8" alt="Typing SVG"/>
 
 </div>
 
@@ -41,6 +37,39 @@ currently:
 → exploring C# & Unity
 → collecting way too many things I want to learn
 ```
+
+---
+
+## ୨୧ my toolbox
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" title="Swift"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title="ASP.NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" title="jQuery"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" title="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+
+
+<div align="center">
+
+`C#` · `Java` · `Python` · `JavaScript` · `Swift` · `SQL`
+`ASP.NET Core` · `EF Core` · `SwiftUI` · `Firebase` · `Bootstrap` · `jQuery`
+`SQL Server` · `MySQL` · `Oracle` · `Firestore` · `Azure` · `Apptomator`
+
+</div>
+</div>
 
 ---
 
@@ -98,40 +127,7 @@ Also working on getting more of my university projects cleaned up and onto GitHu
 </tr>
 </table>
 
----
-
-## ୨୧ my toolbox
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" title="Swift"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" title="ASP.NET"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" title="jQuery"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" title="Unity"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-
-</div>
-
 <br>
-
-<div align="center">
-
-`C#` · `Java` · `Python` · `JavaScript` · `Swift` · `SQL`
-`ASP.NET Core` · `EF Core` · `SwiftUI` · `Firebase` · `Bootstrap` · `jQuery`
-`SQL Server` · `MySQL` · `Oracle` · `Firestore` · `Azure` · `Apptomator`
-
-</div>
 
 ---
 

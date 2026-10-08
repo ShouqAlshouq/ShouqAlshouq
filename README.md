@@ -81,6 +81,12 @@ I'm currently looking for **graduate and junior software/application developer o
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-8B5CF6?style=for-the-badge\&logo=visualstudio\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---

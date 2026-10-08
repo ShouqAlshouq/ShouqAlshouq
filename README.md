@@ -2,7 +2,7 @@
 
 # Hello, I'm Shouq 👋
 
-### Application Development student · low-code builder · always learning something new
+### Application Development student · always learning something new
 
 📍 Abu Dhabi, UAE &nbsp;·&nbsp; 🎓 Higher Colleges of Technology &nbsp;·&nbsp; 🗓️ Graduating May 2027
 

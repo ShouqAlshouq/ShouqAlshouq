@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Shouq 👋
+# Hi there! I'm Shouq ( ≧∀≦)/
 
 ### Application Development student · always learning something new
 
@@ -17,16 +17,16 @@
 
 ## ✨ A little about me
 
-- 🎓 Final-year **Bachelor of Information Systems – Application Development** student at HCT
-- 💼 **Interned at Digital Next UAE** (Jun–Aug 2026), where I built two low-code workflow systems with **Apptomator**
-- 🤝 **Application Development Board Member** at the CIS Club
-- 🎌 **Treasurer** at the Japanese Club
-- 🌱 Currently getting comfortable with **Git & GitHub workflows** — branches, pull requests, the lot
-- 💬 Ask me about: low-code workflows, building my first full web shop, and getting started with GitHub
+- Final-year **Bachelor of Information Systems – Application Development** student at HCT
+- **Interned at Digital Next UAE** (Jun–Aug 2026), where I built two low-code workflow systems with **Apptomator**
+- **Application Development Board Member** at the CIS Club
+- **Treasurer** at the Japanese Club
+- Currently getting comfortable with **Git & GitHub workflows** — branches, pull requests, the lot
+- Ask me about: low-code workflows, building my first full web shop, and getting started with GitHub
 
 <br>
 
-## 🛠️ Toolbox
+## Toolbox
 
 <div align="center">
 
@@ -44,17 +44,17 @@
 
 <br>
 
-## 🚀 Things I've built
+## Things I've built
 
 | | Project | What it is | Built with |
 |:-:|---|---|---|
-| 🌸 | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+|  | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 
 <sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 
 <br>
 
-## 🗺️ My journey so far
+## My journey so far
 
 <details>
 <summary><b>Click to expand</b></summary>

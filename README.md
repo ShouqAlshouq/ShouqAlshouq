@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! I'm Shouq ( ≧∀≦)/
+# Hi there! I'm Shouq (≧∀≦)/
 
 ### Application Development student · always learning something new
 

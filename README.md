@@ -1,14 +1,6 @@
-<!--
-  HOW TO USE
-  1. Create a PUBLIC repo named exactly your GitHub username, tick "Add a README".
-  2. Replace this file's contents with this one.
-  3. Search for YOUR- and swap in your real username, LinkedIn and email.
-  Delete this comment when you're done — visitors can't see it, but it's tidier.
--->
-
 <div align="center">
 
-# Hi, I'm Shouq 👋
+# Hello, I'm Shouq 👋
 
 ### Application Development student · low-code builder · always learning something new
 
@@ -56,7 +48,7 @@
 
 | | Project | What it is | Built with |
 |:-:|---|---|---|
-| 🌸 | **[Aurora's Scents](https://github.com/YOUR-USERNAME/aurora-scents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| 🌸 | **[Aurora's Scents](https://github.com/shouqalshouq/aurorasscents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 | 📝 | **Leave Request Automation** | A low-code workflow that automates leave requests — built during my internship at Digital Next UAE | Apptomator |
 | ⚖️ | **Legal Service Request Workflow** | A low-code workflow for handling legal service requests — also built during my internship | Apptomator |
 

@@ -48,7 +48,7 @@
 
 | | Project | What it is | Built with |
 |:-:|---|---|---|
-| 🌸 | **[Aurora's Scents](https://github.com/shouqalshouq/aurorasscents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| 🌸 | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 | 📝 | **Leave Request Automation** | A low-code workflow that automates leave requests — built during my internship at Digital Next UAE | Apptomator |
 | ⚖️ | **Legal Service Request Workflow** | A low-code workflow for handling legal service requests — also built during my internship | Apptomator |
 

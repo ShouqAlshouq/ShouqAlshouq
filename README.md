@@ -74,7 +74,7 @@
 |:-:|---|---|---|
 | ✈︎ | **[Airline Booking System](https://github.com/ShouqAlshouq/AirlineBookingsProject)** | A data-driven ASP.NET MVC web app: search and book flights with passenger and payment details, manage bookings and profiles, plus an admin dashboard for flights and users | C# · ASP.NET MVC · EF Core · SQL Server LocalDB · Identity |
 | 🌐︎ | **SkyBooking** | An iOS airline booking app with sign-in, a live flights list, bookings, and a profile with camera and photo-library access | Swift · SwiftUI · Firebase Auth · Firestore · REST API |
-| 🏷 | **[Aurora's Scents](https://github.com/ShouqAlshouq/AurorasScents)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
+| 🏷 | **[Aurora's Scents](https://github.com/ShouqAlshouq/Aurora-sScentsProject)** | A perfume shop front end with men's and women's collections, product pages with reviews, a working cart, and a checkout flow with form validation | HTML · CSS · JavaScript · Bootstrap · jQuery |
 
 <sub>More coming soon — I'm moving my projects onto GitHub one by one.</sub>
 

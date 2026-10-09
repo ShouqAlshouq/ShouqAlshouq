@@ -82,7 +82,7 @@ A full airline booking web app with flight searching, bookings, passenger & paym
 
 An iOS airline booking app with authentication, flights, bookings, and a profile with camera & photo-library features.
 
-*coming to GitHub soon ♡*
+**[explore →](https://github.com/ShouqAlshouq/SkyBooking)**
 
 </td>
 </tr>

@@ -138,12 +138,8 @@ Also working on getting more of my university projects cleaned up and onto GitHu
 ```text
 🎓 final-year Application Development student
 ☁️ AZ-900 certified
-🏢 former Application Development Intern @ Digital Next UAE
 🎮 currently exploring game development
-📊 data analysis track graduate
 🤖 interested in AI & emerging technology
-🌸 Japanese Club Treasurer
-💻 CIS Club Application Development Board Member
 ```
 
 ---

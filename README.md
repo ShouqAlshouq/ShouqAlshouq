@@ -47,7 +47,8 @@ currently:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" title="Maven"/>
 
 <div align="center">
 
@@ -90,13 +91,13 @@ An iOS airline booking app with authentication, flights, bookings, and a profile
 <tr>
 <td width="50%" valign="top">
 
-### 🌸 Aurora's Scents
+### 📚 LibraSpace
 
-`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+`Java` · `Swing` · `SQLite`
 
-A little perfume-shop front end with product pages, reviews, a cart, and checkout.
+A desktop library app where students borrow books and reserve study rooms, and librarians manage the book catalogue and rooms.
 
-**[explore →](https://github.com/ShouqAlshouq/Aurora-sScentsProject)**
+**[explore →](https://github.com/ShouqAlshouq/LibraSpaceApp)**
 
 </td>
 

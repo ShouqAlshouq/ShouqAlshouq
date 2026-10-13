@@ -104,7 +104,7 @@ A little perfume-shop front end with product pages, reviews, a cart, and checkou
 
 ### 🎮 currently...
 
-Learning **C# + Unity** and slowly venturing into game development.
+Learning **C# + Unity** and slowly venturing into game development!
 
 Also working on getting more of my university projects cleaned up and onto GitHub.
 
